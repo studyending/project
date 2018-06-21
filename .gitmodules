@@ -1,0 +1,3 @@
+[submodule "ls"]
+	path = ls
+	url = https://github.com/studyending/test.git
